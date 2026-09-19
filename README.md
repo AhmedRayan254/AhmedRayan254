@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Rayan 👋</h1>
-<h3 align="center">IoT & Robotics Engineer · Embedded Systems · ROS 2 · Technical PM @BlueTechnova</h3>
+<h3 align="center">IoT & Robotics Engineer · Embedded Systems · ROS 2 · Technical PM @Blutechnova</h3>
 
 <p align="center">
   <a href="https://ahmedrayan254.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
@@ -11,7 +11,7 @@
 
 ## About me
 
-I build robots and connected devices end to end — from bare-metal firmware on microcontrollers, through ROS 2 control and simulation, up to edge-to-cloud IoT pipelines. I also lead technical projects as a Technical PM at **BlueTechnova**.
+I build robots and connected devices end to end — from bare-metal firmware on microcontrollers, through ROS 2 control and simulation, up to edge-to-cloud IoT pipelines. I also lead technical projects as a Technical PM at **Blutechnova**.
 
 - 🤖 Currently building a **6-DOF robotic arm in ROS 2 Humble** (URDF/Xacro, Gazebo Fortress, ros2_control)
 - 🔌 Embedded work on **AVR, STM32 and ESP32**
